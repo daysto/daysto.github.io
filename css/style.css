@@ -15,8 +15,7 @@ html {
 	display: flex;
   	align-items: center;
 	justify-content: center;
-	font-size: 56px;
-
+	font-size: calc(1.7vw + 2vh + 1.3vmin + 1vmax);
 }
 
 
